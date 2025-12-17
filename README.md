@@ -72,21 +72,13 @@ learning continuously, and turning ideas into reliable digital solutions.
 
 ---
 
----
----
-
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nourelhoudasahli/" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  <a href="https://www.kaggle.com/nourelhoudasahli" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="50" height="50"/>
-  </a>
-  <a href="mailto:nourelhoudasahli9@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="50" height="50"/>
-  </a>
+  <a href="mailto:nourelhoudasahli9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nourelhoudasahli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/nourelhoudasahli" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
 </p>
+
 
 
 ---
