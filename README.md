@@ -73,17 +73,18 @@ learning continuously, and turning ideas into reliable digital solutions.
 ---
 
 ---
+---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nourelhoudasahli/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/nourelhoudasahli/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://www.kaggle.com/nourelhoudasahli" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="40" height="40"/>
+  <a href="https://www.kaggle.com/nourelhoudasahli" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="50" height="50"/>
   </a>
-  <a href="mailto:nourelhoudasahli9@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  <a href="mailto:nourelhoudasahli9@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="50" height="50"/>
   </a>
 </p>
 
