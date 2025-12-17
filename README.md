@@ -29,7 +29,7 @@ learning continuously, and turning ideas into reliable digital solutions.
 ---
 
 ### 🎓 Academic Background
-- Computer Engineering (Génie Informatique)
+- Computer Engineering Student
 - Strong foundation in software development, databases, and algorithms
 - Growing interest in Artificial Intelligence & Data-driven systems
 
