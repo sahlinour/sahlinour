@@ -1,89 +1,65 @@
-## Hi there 👋
-
-<!--
-**sahlinour/sahlinour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Nour El Houda Sahli</h1>
 
-<h3 align="center">
-Full Stack Developer | Computer Engineering Student | AI Enthusiast
-</h3>
+<h3 align="center">Full Stack Developer | Web Developer | Computer Engineering Student</h3>
 
 <p align="center">
-I am a motivated Computer Engineering student and Full Stack Developer with a strong interest in 
-Artificial Intelligence and modern web technologies. I enjoy building scalable web applications, 
-learning continuously, and turning ideas into reliable digital solutions.
+Motivated Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.  
+I enjoy turning ideas into real-world digital solutions using clean code and best practices.
 </p>
 
 ---
 
-### 🎓 Academic Background
-- Computer Engineering Student
-- Strong foundation in software development, databases, and algorithms
-- Growing interest in Artificial Intelligence & Data-driven systems
+## 🚀 About Me
+- 🎓 Computer Engineering Student (Full Stack Development background)
+- 💻 Full Stack Developer (Laravel / React / MySQL / MongoDB)
+- 🌱 Currently improving my skills in Cloud & Backend architecture
+- 🎯 Interested in building scalable web applications and real-world projects
+- 📍 Based in Morocco
 
 ---
 
-### 🌱 Currently Learning
-- Cloud Native Development (Docker, Containers)
-- RESTful APIs & React API integration
-- AI & Machine Learning fundamentals
+## 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
+**Backend:** Laravel, PHP, Node.js  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Docker, Postman, Figma  
+**Others:** REST APIs, MVC Architecture, Agile
 
 ---
 
-### 💬 Ask Me About
-- Full Stack Web Development  
-- React & Laravel  
-- Agile Methodologies  
-- Project Structuring & Best Practices  
+## 📌 Featured Projects
+
+### 🐾 Pet Selling System
+Marketplace platform for buying and selling pets with authentication, listings, favorites, and messaging.  
+**Tech:** Laravel, MySQL, Bootstrap, React
+
+### 🛒 MounaShop E-commerce
+Full e-commerce platform with product catalog, cart, orders, and admin dashboard.  
+**Tech:** Laravel, MySQL, Bootstrap
+
+### 🎓 Educational Platform for Kids
+Interactive learning platform with React frontend and Laravel backend using MVC architecture.  
+**Tech:** React, Laravel, MongoDB, Express.js
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-</p>
+## 🌱 Currently Learning
+- Advanced Laravel & API Development  
+- React State Management  
+- System Design Basics  
+- Cloud & DevOps Fundamentals  
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:nourelhoudasahli9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nourelhoudasahli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/nourelhoudasahli" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
-</p>
-
-
+## 📫 Contact Me
+- 📧 Email: nourelhoudasahli9@gmail.com  
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/nourelhoudasahli/)  
+- 🌐 Kaggle: [My Profile](https://www.kaggle.com/nourelhoudasahli)
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahlinour" />
 </p>
