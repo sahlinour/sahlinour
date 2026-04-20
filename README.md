@@ -7,22 +7,17 @@ Motivated Full Stack Developer passionate about building modern, scalable, and u
 I enjoy turning ideas into real-world digital solutions using clean code and best practices.
 </p>
 
----
-
 ## 🚀 About Me
 - 🎓 Computer Engineering Student (Full Stack Development background)
 - 💻 Full Stack Developer (Frontend + Backend)
 - 🤖 Interested in Artificial Intelligence & Data-driven systems
 - 🚀 Passionate about building real-world projects
 
----
-
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,php,laravel,vue,react,html,css,js,tailwind,bootstrap,mysql,postgres,mongodb,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,java,python,c,php,laravel,vue,react,mysql,postgres,mongodb,git,github,figma,vscode" />
 </p>
----
 
 ## 📫 Contact Me
 - 📧 Email: nourelhoudasahli9@gmail.com  
