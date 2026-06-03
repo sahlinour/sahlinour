@@ -4,8 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Vue+%7C+React+enthusiast;Always+learning%2C+always+building+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C9B8FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+%F0%9F%9A%80;Laravel+%2B+Vue.js+Full+Stack+Developer;Clean+Code+%7C+Clean+Architecture;Open+to+opportunities+%E2%9C%85)](https://git.io/typing-svg)
+
+</div>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-el-houda-sahli-445664284)
@@ -30,52 +33,77 @@
 
 ---
 
-## Tech Stack
+<div align="center">
+
+### 🛠 Tech Stack
+
+<br/>
+
+**— Backend —**
+
+![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=c9b8ff)
+![Laravel](https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=Java&logoColor=FF2D20)
+
+<br/>
+
+**— Frontend —**
+
+![Vue.js](https://img.shields.io/badge/Vue.js_3-1a1a2e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+<br/>
+
+**— Tools —**
+
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
+![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Pinia](https://img.shields.io/badge/Pinia-1a1a2e?style=for-the-badge&logo=vue.js&logoColor=FFD859)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=vscode&logoColor=007ACC)
+
+</div>
+<br clear="right"/>
+
+---
+
+<br/>
 
 <div align="center">
 
-**Frontend**
+<br/><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahlinour&bg_color=0d1117&color=c9b8ff&line=7c5cbf&point=ff6eb4&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## Let's Connect
+<br/>
 
 <div align="center">
-  
-Reach me at **nourelhoudasahli9@gmail.com**  
-or connect on [LinkedIn](https://www.linkedin.com/in/nour-el-houda-sahli-445664284) — always happy to collaborate!
+
+### 📫 Let's Connect
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-el-houda-sahli-445664284)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourelhoudasahli9@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sahlinour)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sahlinour&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
